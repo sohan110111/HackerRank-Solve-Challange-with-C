@@ -1,0 +1,1 @@
+{"name":"Local: largeNumber","url":"c:\\Users\\DELL\\Desktop\\HackerRank-Solve-Challenge-with-C\\largeNumber.c","tests":[{"id":1663836705217,"input":"5\n8\n788456\n0","output":"788456"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\Desktop\\HackerRank-Solve-Challenge-with-C\\largeNumber.c","group":"local","local":true}
